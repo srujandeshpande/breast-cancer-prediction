@@ -1,5 +1,11 @@
 # Breast Cancer Prediction
-Breast Cancer Prediction for Data Analysis Project
+Breast Cancer Prediction for Data Analysis Project  
+
+[![Made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+![Made-with-R](https://img.shields.io/badge/Made%20with-R-blue)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11EVPPXdvC3P0ojUXZjiriFeFG62W1QAV?usp=sharing)
+
+---
 
 ## Details
 Subject: Data Analytics  
