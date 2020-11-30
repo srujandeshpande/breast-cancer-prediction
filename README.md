@@ -31,6 +31,40 @@ The Exploratory Data Analysis for this project was done using R. The results can
 ### Prediction
 The model used in the project was a Support Vector Machine. The prediction was done using Python and the code can be found in the file [`Predict.ipynb`](https://github.com/srujandeshpande/breast-cancer-prediction/blob/main/Predict.ipynb).
 
+## SVM Parameters
+C=1.0
+break_ties=False
+cache_size=200
+class_weight=None
+coef0=0.0
+decision_function_shape='ovr'
+degree=3
+gamma='scale'
+kernel='rbf'
+max_iter=-1
+probability=False
+random_state=None
+shrinking=True
+tol=0.001 
+verbose=False
+
+## Genetic Algorithm Parameters
+SVC()
+cv=5
+verbose=1
+scoring="accuracy"
+max_features=10
+n_population=50
+crossover_proba=0.5
+mutation_proba=0.2
+n_generations=40
+crossover_independent_proba=0.5
+mutation_independent_proba=0.05
+tournament_size=3
+n_gen_no_change=10
+caching=True
+n_jobs=1
+
 
 ## Useful links
 - Dataset Download https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/download
